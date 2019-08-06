@@ -70,7 +70,7 @@
     "number-literal-format": true,
     "no-parameter-properties": true,
     "indent": [true, "spaces", 2],
-    "no-default-export": false,
+    "no-default-export": true,
     "no-duplicate-imports": true,
     "no-duplicate-switch-case": true,
     "prefer-readonly": true,
