@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "Common TSLint/ESLint for JS/TS projects by Viva IT.",
   "author": "Viva IT",
-  "license": "Proprietary",
+  "license": "MIT",
   "private": true
 }
